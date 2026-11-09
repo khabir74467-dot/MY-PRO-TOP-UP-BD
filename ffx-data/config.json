@@ -1,7 +1,6 @@
 {
   "logo": "logo-1793903160269.png",
   "ffBanner": null,
-  "ffPackages": null,
   "banners": null,
   "quick": [
     {
@@ -16,5 +15,10 @@
       "label": "YouTube",
       "url": "https://youtube.com/@myprogamar-yt?si=-D5VBpg2QHM4xDZ2"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": {
+    "hours": "সকাল ১০টা থেকে রাত ১২টা"
+  }
 }
